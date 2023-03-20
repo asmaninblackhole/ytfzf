@@ -16,7 +16,7 @@
 </p>
 
 <h1 align="center">
-	This is a litt showcase
+	This is a lit showcase
 </h1>
 <p align="center">
 <img src=.assets/ytfzf.gif width="100%">
