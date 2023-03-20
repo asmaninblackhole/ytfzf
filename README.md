@@ -16,7 +16,7 @@
 </p>
 
 <h1 align="center">
-	This is a show
+	This is a sho
 </h1>
 <p align="center">
 <img src=.assets/ytfzf.gif width="100%">
